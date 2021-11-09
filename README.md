@@ -9,6 +9,12 @@
 <img align="left" alt="JuPyter" width="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/Python.png">
 <img align="left" alt="JuPyter" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/Altium-Designer.png">
 <img align="left" alt="JuPyter" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/ISE-Design-Suite.png">
-<img align="left" alt="JuPyter" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/Keil-IDE.png">
+<img align="left" alt="JuPyter" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/Keil-IDE.png">          
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinMasoumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- LANGUAGES -->
+
+<br/><br/>
+
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinMasoumi&layout=compact">
+ 
