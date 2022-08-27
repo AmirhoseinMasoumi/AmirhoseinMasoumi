@@ -13,10 +13,5 @@
 <img align="left" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/ISE-Design-Suite.png">
 <img align="left" width="52px" height="26px" src="https://github.com/AmirhoseinMasoumi/AmirhoseinMasoumi/blob/main/Images/Keil-IDE.png">          
 
-<!-- LANGUAGES -->
 
-<br/><br/> 
-
----
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinMasoumi&layout=compact">
   
