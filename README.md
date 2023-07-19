@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Im Amirhosein Masoumi
 - 🎓 BSc student in Electrical Engineering
 - 💻 Embedded Systems Engineer
 - 💻 PCB Designer
@@ -18,3 +18,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmirhoseinMasoumi&theme=radical&no-frame=true&no-bg=true&margin-w=4) 
 
+Feel free to explore my repositories and don't forget to star your favorite projects! 😄
