@@ -1,4 +1,4 @@
-### Hi there, Im Amirhosein Masoumi
+### Hi there, I'm Amirhosein Masoumi
 - 🎓 BSc student in Electrical Engineering
 - 💻 Embedded Systems Engineer
 - 💻 PCB Designer
