@@ -1,8 +1,7 @@
 ### Hi there, I'm Amirhosein Masoumi
-- 🎓 BSc student in Electrical Engineering
+- 🎓 BSc of Electrical Engineering
 - 💻 Software Developer
 - 💻 Embedded Systems Engineer
-- 💻 PCB Designer
 
 <a href="https://github.com/AmirhoseinMasoumi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinMasoumi&theme=prussian&hide_border=true&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact" width="500" /><br/><br/>
