@@ -3,10 +3,9 @@
 - 💻 Software Developer
 - 💻 Embedded Systems Engineer
 
-<a href="https://github.com/AmirhoseinMasoumi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinmasoumi&layout=compact&theme=cobalt)
 
-![](https://github-readme-stats.vercel.app/api?username=AmirhoseinMasoumi&theme=prussian&hide_border=true&text_color=ffffff&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhoseinmasoumi&show_icons=true&theme=cobalt)
 
 
 # 💻 Tech Stack:
