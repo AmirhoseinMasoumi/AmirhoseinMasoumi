@@ -4,7 +4,7 @@
 - 💻 Embedded Systems Engineer
 
 <a href="https://github.com/AmirhoseinMasoumi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirhoseinMasoumi&theme=prussian&hide_border=true&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact" width="500" /><br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
 
 ![](https://github-readme-stats.vercel.app/api?username=AmirhoseinMasoumi&theme=prussian&hide_border=true&text_color=ffffff&include_all_commits=true&count_private=true)
 
