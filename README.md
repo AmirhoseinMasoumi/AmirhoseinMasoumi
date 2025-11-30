@@ -1,14 +1,65 @@
-### Hi there, I'm Amirhosein Masoumi
-- 🎓 BSc of Electrical Engineering
-- 💻 Software Developer
-- 💻 Embedded Systems Engineer
+# Amirhosein Masoumi  
+**Embedded Software Engineer | Embedded Linux Developer**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinmasoumi&layout=compact&theme=cobalt)
+---
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Qt](https://img.shields.io/badge/qt-%2307405e.svg?style=for-the-badge) ![QML](https://img.shields.io/badge/qml-%2307405e.svg?style=for-the-badge) 
+## About
+Embedded engineer specializing in **Embedded Linux**, low-level development, and reliable system design.  
+I work across bootloaders, kernels, drivers, and user-space software to deliver efficient and maintainable embedded solutions.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhosein-masoumi-94204a1b9/)  
+## Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yocto-292e33?logo=yocto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Buildroot-5c2d91?logo=buildroot&logoColor=white" />
+  <img src="https://img.shields.io/badge/U--Boot-333?logo=gnu&logoColor=white" />
+</p>
 
-Feel free to explore my repositories and don't forget to star your favorite projects! 😄
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-044F88?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white" />
+</p>
+
+<!-- Backend & Databases -->
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-007396?logo=mqtt&logoColor=white" />
+</p>
+
+<!-- Tools, Frameworks & GUI -->
+<p>
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-000000?logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?logo=tensorrt&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-F7610A?logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/GDB-4E9A06?logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Valgrind-FF0000?logo=valgrind&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+---
+
+## Expertise
+- Embedded Linux: Yocto, Buildroot, kernel config, device tree  
+- Drivers, board bring-up, cross-compilation  
+- C/C++ firmware, RTOS, hardware-software integration  
+- Linux systems programming, IPC, tooling, automation  
+
+---
+
+## Contact
+- **LinkedIn:** *your link*  
+- **Email:** *your email*
+
+Feel free to explore my repositories.
