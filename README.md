@@ -59,7 +59,7 @@ I work across bootloaders, kernels, drivers, and user-space software to deliver 
 ---
 
 ## Contact
-- **LinkedIn:** *your link*  
-- **Email:** *your email*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirhosein-masoumi-94204a1b9/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirrhossein.masoumi@gmail.com)
 
 Feel free to explore my repositories.
