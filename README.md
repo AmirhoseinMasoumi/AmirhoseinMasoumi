@@ -3,12 +3,6 @@
 
 ---
 
-## About
-Embedded engineer specializing in **Embedded Linux**, low-level development, and reliable system design.  
-I work across bootloaders, kernels, drivers, and user-space software to deliver efficient and maintainable embedded solutions.
-
----
-
 ## Skills & Tools
 <p>
   <img src="https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white" />
